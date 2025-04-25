@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RajveerVoraUni
+- 👀 I’m interested in Statistical Finance
+- 🌱 I’m currently learning Statistics and Data Science
+- 📫 How to reach me? Write to me @ rajveeruniversity@gmail.com
+- ⚡ Fun fact: 
