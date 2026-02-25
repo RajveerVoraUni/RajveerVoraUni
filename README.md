@@ -1,5 +1,4 @@
-- 👋 Hi, I’m RajveerVora
-- 👀 I’m interested in Statistical Finance
-- 🌱 I’m currently learning Statistics and Data Science
-- 📫 How to reach me? Write to me @ rajveeruniversity@gmail.com
-- ⚡ Fun fact: 
+- Hi, I’m Rajveer Vora
+- I’m interested in Statistical Finance
+- I’m currently learning Statistics and Data Science
+- Reach me @ rajveeruniversity@gmail.com
