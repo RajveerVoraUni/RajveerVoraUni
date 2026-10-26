@@ -6,15 +6,12 @@ My interests lie at the intersection of mathematics, statistics, and finance —
 
 ## Areas of Interest
 
+- Deep/Machine Learning
 - Quantitative Finance
 - Convex Optimization
-- Dynamical Systems
-- Quantum Computing
-- Stochastic Processes
-- Statistical Inference
-- Machine Learning
-- Financial Analysis
-
+- Game Theory
+- Neural Networks (Convolutional & Adversarial)
+  
 ## What I've Worked On
 
 - Evolutionary game theory and replicator dynamics
