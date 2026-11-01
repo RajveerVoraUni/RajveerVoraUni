@@ -31,16 +31,7 @@ NumPy, Matplotlib, TensorFlow, CVXPY
 **Domains**
 Optimization, Statistical Learning, Game Theory
 
-
-## Currently Learning
-
-- Financial Econometrics
-- Advanced Stochastic Processes
-- Asset Pricing
-- Systematic Trading Strategies
-
 ## Connect
 
 Email: rajveeruniversity@gmail.com  
-LinkedIn: https://www.linkedin.com/in/rajveervora  
-Website: https://rajveervorauni.github.io/
+LinkedIn: https://www.linkedin.com/in/rajveervora
