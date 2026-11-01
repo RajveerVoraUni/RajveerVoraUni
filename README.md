@@ -2,15 +2,14 @@
 
 I’m an undergraduate student at the Indian Statistical Institute, Kolkata, pursuing a Bachelor’s in Statistical Data Science.
 
-My interests lie at the intersection of mathematics, statistics, and finance — particularly in quantitative finance, optimization, stochastic systems, and market modeling.
+My academic interests lie across mathematical and statistical theory, machine learning, and its applications. I’m particularly drawn to statistical inference, deep learning, and quantitative finance, and to the different ways these fields help us understand patterns, model uncertainty, and make decisions.
 
 ## Areas of Interest
 
 - Deep/Machine Learning
 - Quantitative Finance
 - Convex Optimization
-- Game Theory
-- Neural Networks (Convolutional & Adversarial)
+- High-Dimensional Statistics
   
 ## What I've Worked On
 
@@ -23,13 +22,10 @@ My interests lie at the intersection of mathematics, statistics, and finance —
 ## Technical Skills
 
 **Languages**
-Python, R, C, Java, LaTeX
+Python, R, C, Java
 
 **Libraries / Tools**
-NumPy, Matplotlib, TensorFlow, CVXPY
-
-**Domains**
-Optimization, Statistical Learning, Game Theory
+TensorFlow, PyTorch, NumPy, Pandas
 
 ## Connect
 
